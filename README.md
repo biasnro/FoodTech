@@ -107,7 +107,7 @@ Além de substituido, quando o usuário for checar as estatísticas e clicar em 
 
 Se o usuário deseja salvar as experiências, basta abrir a aba "Arquivo" no canto supeior esquerdo e clicar em "Salvar":
 
-![](figuras/salvar.PNG)
+![](figuras/salvar.png)
 
 Após isso, basta escolher a pasta onde quer salvar e escrever um nome para o arquivo:
 
@@ -123,7 +123,7 @@ Para limpar a tabela e começar a cadastrar novas experiências, basta clicar no
 
 Se o usuário deseja abrir uma tabela já existente, basta abrir a aba "Arquivo" no canto supeior esquerdo e clicar em "Abrir Arquivo":
 
-[](figuras/abrir.PNG)
+[](figuras/abrir.png)
 
 Após isso, basta escolher o arquivo que deseja abrir.
 
