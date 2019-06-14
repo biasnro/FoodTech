@@ -129,18 +129,3 @@ Após isso, basta escolher o arquivo que deseja abrir.
 
 # Agora é só começar a usar! 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
