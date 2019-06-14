@@ -105,11 +105,19 @@ for(int i = 0; i < qntLinhas; i++){
 
 void MainWindow::on_atualizar_estatisticas_clicked()
 {
+    if(xp.size()>0){
     ui->melhor_restaurante->setText(xp.melhorExperiencia().getRestaurante());
     ui->melhor_prato->setText(xp.melhorExperiencia().getPrato());
 
     ui->pior_restaurante->setText(xp.piorExperiencia().getRestaurante());
     ui->pior_prato->setText(xp.piorExperiencia().getPrato());
+    }else{
+        ui->melhor_restaurante->setText(" ");
+        ui->melhor_prato->setText(" ");
+
+        ui->pior_restaurante->setText(" ");
+        ui->pior_prato->setText(" ");
+    }
 }
 
 void MainWindow::on_salvar_triggered()
