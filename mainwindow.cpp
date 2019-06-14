@@ -129,7 +129,7 @@ void MainWindow::on_salvar_triggered()
 
 void MainWindow::on_abrir_triggered()
 {
-    QString nomeArquivo = QFileDialog::getOpenFileName(this, "Lista de aluno", "","CSV(*.csv)");
+    QString nomeArquivo = QFileDialog::getOpenFileName(this,"Lista de Experiências","","CSV(*.csv)");
         xp.abrirExperiencias(nomeArquivo);
         for(int i=0;i<xp.size();i++){
             ui->tabela->insertRow(i);
