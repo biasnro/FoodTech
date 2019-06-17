@@ -68,16 +68,19 @@ Após o usuário inserir suas experiências, as linhas da tabela estarão ordena
 O usuário pode ordenar as experiências por três critérios:
 
 1. Ordenando por Nome
+
 Ao clicar no botão "Ordenar por Nome", as linhas da tabela serão ordenadas pelo nome do restaurante (ordem alfabética):
 
 ![](figuras/ordenar_nome.PNG)
 
 2. Ordenando por Tipo
+
 Ao clicar no botão "Ordenar por Tipo", as linhas da tabela serão ordenadas pelo tipo de culinária (ordem alfabética):
 
 ![](figuras/ordenar_tipo.PNG)
 
 3. Ordenando por Nota
+
 Ao clicar no botão "Ordenar por Nota", as linhas da tabela serão ordenadas pela nota final (ordem decrescente):
 
 ![](figuras/ordenar_nota.PNG)
