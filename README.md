@@ -21,7 +21,7 @@ A segunda tela contém algumas estatísticas das experiências vividas e cadastr
 
 ### Cadastrando uma nova Experiência Gastronômica
 
-Vamos começar cadastrando uma nova experiência. Para isso o usuário precisa: escrever o nome do Restaurante e do Prato e escolher o Tipo de culinária: 
+Vamos começar cadastrando uma nova experiência. Para isso o usuário precisa escrever o nome do Restaurante e do Prato e escolher o Tipo de culinária: 
 
 ![](figuras/dados.PNG)
 
@@ -50,8 +50,11 @@ Após cadastrar, a experiência será exibida em uma tabela, que terá 4 colunas
 A nota obtida pelo restaurante é uma média ponderada envolvento as quatro avaliações. Essa média é obtida de acordo com o peso das avaliações, que são: 
 
 Comida: peso 4
+
 Preço: peso 2
+
 Ambiente: peso 2
+
 Atendimento: peso 2
 
 Todos esses critérios são fundamentais para determinar se a experiência foi agradável ou desagradável.
